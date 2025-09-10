@@ -4,6 +4,6 @@ Unix/Linux System Administration Internship Docker, Kubernetes, Git, Bash, Ansib
  
 	• Built a distributed Linux-based network with DNS, Mail, Web, and Authentication services.
  
-	•Used Kubernetes to deploy and load-balance redundant web servers.
+	• Used Kubernetes to deploy and load-balance redundant web servers.
   
-	•Managed automation with Ansible scripts and implemented LDAP user management.
+	• Managed automation with Ansible scripts and implemented LDAP user management.
